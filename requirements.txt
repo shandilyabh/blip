@@ -1,0 +1,7 @@
+python-dotenv
+pymongo
+backtrader
+tvdatafeed @ git+https://github.com/rongardF/tvdatafeed.git
+pyti
+pytz
+matplotlib

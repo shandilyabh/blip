@@ -3,8 +3,8 @@ helper script for fetching historical data from yfinance
 """
 import yfinance as yf # type: ignore
 from pathlib import Path
-from tqdm import tqdm
-import yaml
+from tqdm import tqdm # type: ignore
+import yaml # type: ignore
 
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
