@@ -1,0 +1,56 @@
+[
+    {
+        "ts": "1763715060000",
+        "side": "SELL",
+        "size": 128,
+        "entry": 1551.5,
+        "stop": 1552.4,
+        "target": 1550.42,
+        "valid": true,
+        "atr": 0.6,
+        "instrument": "NSE_EQ|INE002A01018"
+    },
+    {
+        "instrument": "NSE_EQ|INE002A01018",
+        "side": "SELL",
+        "entry": 1551.5,
+        "exit_price": 1552.4,
+        "pnl": -115.2,
+        "realized_pnl": -115.2,
+        "reason": "STOP",
+        "target": 1550.42,
+        "stop": 1552.4,
+        "size": 128,
+        "ts_entry": "1763715060000",
+        "ts_exit": "1763715780000",
+        "trade_duration": 720.0,
+        "type": "EXIT"
+    },
+    {
+        "ts": "1763716260000",
+        "side": "SELL",
+        "size": 128,
+        "entry": 1551.5,
+        "stop": 1552.62,
+        "target": 1550.15,
+        "valid": true,
+        "atr": 0.75,
+        "instrument": "NSE_EQ|INE002A01018"
+    },
+    {
+        "instrument": "NSE_EQ|INE002A01018",
+        "side": "SELL",
+        "entry": 1551.5,
+        "exit_price": 1550.15,
+        "pnl": 172.8,
+        "realized_pnl": 57.6,
+        "reason": "TARGET",
+        "target": 1550.15,
+        "stop": 1552.62,
+        "size": 128,
+        "ts_entry": "1763716260000",
+        "ts_exit": "1763716440000",
+        "trade_duration": 180.0,
+        "type": "EXIT"
+    }
+]

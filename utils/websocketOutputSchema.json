@@ -1,0 +1,293 @@
+[
+  {
+    "type": "live_feed",
+    "feeds": {
+      "NSE_INDEX|Nifty Bank": {
+        "fullFeed": {
+          "indexFF": {
+            "ltpc": {
+              "ltp": 57695.8,
+              "ltt": "1762840040000",
+              "cp": 57937.55
+            },
+            "marketOHLC": {
+              "ohlc": [
+                {
+                  "interval": "1d",
+                  "open": 57962.3,
+                  "high": 58082.45,
+                  "low": 57594.25,
+                  "close": 57695.8,
+                  "ts": "1762799400000"
+                },
+                {
+                  "interval": "I1",
+                  "open": 57728.15,
+                  "high": 57740.75,
+                  "low": 57709.8,
+                  "close": 57709.8,
+                  "ts": "1762839960000"
+                }
+              ]
+            }
+          }
+        },
+        "requestMode": "full_d5"
+      }
+    },
+    "currentTs": "1762840041151"
+  },
+  {
+    "type": "live_feed",
+    "feeds": {
+      "NSE_INDEX|Nifty 50": {
+        "fullFeed": {
+          "indexFF": {
+            "ltpc": {
+              "ltp": 25471.8,
+              "ltt": "1762840041000",
+              "cp": 25574.35
+            },
+            "marketOHLC": {
+              "ohlc": [
+                {
+                  "interval": "1d",
+                  "open": 25617,
+                  "high": 25637.6,
+                  "low": 25449.25,
+                  "close": 25471.8,
+                  "ts": "1762799400000"
+                },
+                {
+                  "interval": "I1",
+                  "open": 25480.9,
+                  "high": 25483.7,
+                  "low": 25474.75,
+                  "close": 25475.1,
+                  "ts": "1762839960000"
+                }
+              ]
+            }
+          }
+        },
+        "requestMode": "full_d5"
+      }
+    },
+    "currentTs": "1762840041450"
+  },
+  {
+    "type": "live_feed",
+    "feeds": {
+      "NSE_INDEX|Nifty Bank": {
+        "fullFeed": {
+          "indexFF": {
+            "ltpc": {
+              "ltp": 57695.8,
+              "ltt": "1762840041000",
+              "cp": 57937.55
+            },
+            "marketOHLC": {
+              "ohlc": [
+                {
+                  "interval": "1d",
+                  "open": 57962.3,
+                  "high": 58082.45,
+                  "low": 57594.25,
+                  "close": 57695.8,
+                  "ts": "1762799400000"
+                },
+                {
+                  "interval": "I1",
+                  "open": 57728.15,
+                  "high": 57740.75,
+                  "low": 57709.8,
+                  "close": 57709.8,
+                  "ts": "1762839960000"
+                }
+              ]
+            }
+          }
+        },
+        "requestMode": "full_d5"
+      }
+    },
+    "currentTs": "1762840041603"
+  },
+  {
+    "type": "live_feed",
+    "feeds": {
+      "NSE_INDEX|Nifty 50": {
+        "fullFeed": {
+          "indexFF": {
+            "ltpc": {
+              "ltp": 25471.6,
+              "ltt": "1762840041000",
+              "cp": 25574.35
+            },
+            "marketOHLC": {
+              "ohlc": [
+                {
+                  "interval": "1d",
+                  "open": 25617,
+                  "high": 25637.6,
+                  "low": 25449.25,
+                  "close": 25471.6,
+                  "ts": "1762799400000"
+                },
+                {
+                  "interval": "I1",
+                  "open": 25480.9,
+                  "high": 25483.7,
+                  "low": 25474.75,
+                  "close": 25475.1,
+                  "ts": "1762839960000"
+                }
+              ]
+            }
+          }
+        },
+        "requestMode": "full_d5"
+      }
+    },
+    "currentTs": "1762840041905"
+  },
+  {
+    "type": "live_feed",
+    "feeds": {
+      "NSE_INDEX|Nifty Bank": {
+        "fullFeed": {
+          "indexFF": {
+            "ltpc": {
+              "ltp": 57697.8,
+              "ltt": "1762840041000",
+              "cp": 57937.55
+            },
+            "marketOHLC": {
+              "ohlc": [
+                {
+                  "interval": "1d",
+                  "open": 57962.3,
+                  "high": 58082.45,
+                  "low": 57594.25,
+                  "close": 57697.8,
+                  "ts": "1762799400000"
+                },
+                {
+                  "interval": "I1",
+                  "open": 57728.15,
+                  "high": 57740.75,
+                  "low": 57709.8,
+                  "close": 57709.8,
+                  "ts": "1762839960000"
+                }
+              ]
+            }
+          }
+        },
+        "requestMode": "full_d5"
+      }
+    },
+    "currentTs": "1762840042051"
+  },
+  
+  
+  
+  {
+  "ts": {
+    "$date": "2025-11-12T09:15:00.000Z"
+  },
+  "meta": {
+    "symbol": "Nifty 50"
+  },
+  "open": 25885.65,
+  "_id": {
+    "$oid": "6914505550b6d9e5ee33703c"
+  },
+  "low": 25885.1,
+  "count": 114,
+  "high": 25889,
+  "close": 25887.25,
+  "volume": 0
+},
+
+{
+  "type": "live_feed",
+  "feeds": {
+    "NSE_EQ|INE002A01018": {
+      "fullFeed": {
+        "marketFF": {
+          "ltpc": {
+            "ltp": 1540.2,
+            "ltt": "1763618925604",
+            "ltq": "1",
+            "cp": 1518.9
+          },
+          "marketLevel": {
+            "bidAskQuote": [
+              {
+                "bidQ": "1048",
+                "bidP": 1540.2,
+                "askQ": "1383",
+                "askP": 1540.4
+              },
+              {
+                "bidQ": "1133",
+                "bidP": 1540.1,
+                "askQ": "2773",
+                "askP": 1540.5
+              },
+              {
+                "bidQ": "1494",
+                "bidP": 1540,
+                "askQ": "581",
+                "askP": 1540.6
+              },
+              {
+                "bidQ": "8051",
+                "bidP": 1539.9,
+                "askQ": "2672",
+                "askP": 1540.7
+              },
+              {
+                "bidQ": "4575",
+                "bidP": 1539.8,
+                "askQ": "742",
+                "askP": 1540.8
+              }
+            ]
+          },
+          "optionGreeks": {},
+          "marketOHLC": {
+            "ohlc": [
+              {
+                "interval": "1d",
+                "open": 1530,
+                "high": 1542.4,
+                "low": 1526.7,
+                "close": 1540.2,
+                "vol": "6418025",
+                "ts": "1763577000000"
+              },
+              {
+                "interval": "I1",
+                "open": 1540.4,
+                "high": 1540.4,
+                "low": 1540.1,
+                "close": 1540.1,
+                "vol": "11293",
+                "ts": "1763618820000"
+              }
+            ]
+          },
+          "atp": 1536.09,
+          "vtt": "6418064",
+          "tbq": 494236,
+          "tsq": 1040544
+        }
+      },
+      "requestMode": "full_d5"
+    }
+  },
+  "currentTs": "1763618926276"
+}
+]

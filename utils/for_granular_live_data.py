@@ -61,7 +61,7 @@ async def fetch_market_data():
             "method": "sub",
             "data": {
                 "mode": "full",
-                "instrumentKeys": ["NSE_INDEX|Nifty Bank", "NSE_INDEX|Nifty 50"]
+                "instrumentKeys": ["NSE_EQ|INE002A01018", "NSE_EQ|INE467B01029", "NSE_EQ|INE0HOQ01053"]
             }
         }
 
